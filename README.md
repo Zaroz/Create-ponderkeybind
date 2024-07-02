@@ -12,4 +12,4 @@
 <p>This project merges PR with create 0.5.1f for Minecraft 1.20. It adds a customizable keybinding for the Ponder functionality. This project will be archived if the PR is merged with base Create.</p>
 
 <h1></h1>
-<h4 align="center">Looking for the mod file? <a href="[https://modrinth.com/mod/create-ponder-keybind/]">Find it here</a></h4>
+<h4 align="center">Looking for the mod file? <a href="https://modrinth.com/mod/create-ponder-keybind/">Find it here</a></h4>
